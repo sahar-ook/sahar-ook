@@ -6,6 +6,8 @@ I'm a product manager who builds with AI hands-on.
 
 **[Pysar](https://github.com/sahar-ook/pysar)**: speech-to-text for macOS that handles Ukrainian and English in the same sentence. I think and work in two languages at once, and the tools I tried pick one language per take. So I built the one I wanted, and I use it every day.
 
+**[Approval inbox agent](https://github.com/sahar-ook/approval-inbox-agent)**: an agent that drafts my replies across Telegram, Gmail, Slack, LinkedIn and Instagram, and sends nothing until I approve. Two scheduled agents and one approval page.
+
 ### At work
 
 - Now: fractional product manager at [Loopsii](https://loopsii.com), an all-in-one app for freelancers.
